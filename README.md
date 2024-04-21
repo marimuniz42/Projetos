@@ -8,3 +8,4 @@ Projetos que fiz.
 - [Operações](./Operacoes/README.md)
 - [Cálculo Litros](./CalculoLitros/README.md)
 - [Classificação](./Classificacao/README.md)
+- [Cálculo Média](./CalculoMedia/README.md)
