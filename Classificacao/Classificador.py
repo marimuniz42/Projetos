@@ -11,7 +11,7 @@ idade = int(input('Digite sua idade: '))
 categoria = ''
 if idade >= 0 and idade <= 12:
     categoria = 'Criança'
-elif idade > 12 and idade < 18:
+elif idade > 12 and idade <= 18:
     categoria = 'Adolescente'
 elif idade > 18:
     categoria = 'Adulto'
